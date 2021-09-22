@@ -19,5 +19,6 @@ int main() {
 		j--;
 	}
 	printf("result:%d", y);
+	printf("work with branches");
 	return 0;
 }
