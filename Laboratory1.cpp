@@ -20,5 +20,6 @@ int main() {
 	}
 	printf("result:%d", y);
 	printf("work with branches");
+	//для добавления коммита
 	return 0;
 }
